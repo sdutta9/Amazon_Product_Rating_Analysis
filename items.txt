@@ -27,3 +27,11 @@ B00K4PATO8	Dell Inspiron i5748-2143sLV 17.3-Inch Laptop	Dell Computer
 B004KZJ0UM	Dell Latitude D630 14.1-Inch Notebook PC - Silver 2011 Model	Dell Marketing USA, LP
 B011KFQASE	ASUS F555LA-AB31 15.6-inch Full-HD Laptop (Core i3, 4GB RAM, 500GB HDD) with Windows 10	ASUS Computers
 B00NJNE6AA	Dell Inspiron 15 7000 Series i7537T-1122sLV 15-Inch Touchscreen Laptop (Intel Core i5 Processor, 6GB RAM)	Dell Computer
+B00VJ1P7TS	Apple MacBook Air MJVE2LL/A 13-inch Laptop (1.6 GHz Intel Core i5,4GB RAM,128 GB SSD Hard Drive, Mac OS X)	Apple Computer
+B01606KJ6C	Microsoft Surface Pro 4 (128 GB, 4 GB RAM, Intel Core i5)	Microsoft PC
+B00VGNZ4PG	Microsoft Surface 3 Tablet (10.8-Inch, 64 GB, Intel Atom, Windows 8.1) - Free Windows 10 Upgrade	Microsoft PC
+B00FF6J532	Microsoft Surface 2 (32 GB)	Microsoft Surface
+B0163GQJOU	Microsoft Surface Book (128 GB, 8 GB RAM, Intel Core i5)	Microsoft
+B00IU745S8	G-Tab Iota Quad Core Android Tablet PC [10.1 Inch IPS, 16GB, Wi-Fi] (White)	Matricom
+B00N9ERISQ	Microsoft Surface 2 32GB 10.6" Tablet Windows RT 8.1 (Certified Refurbished)	Microsoft
+B005CWIVYI	Apple MacBook Pro MD313LL/A 13.3-Inch Laptop (OLD VERSION)	Apple Computer
