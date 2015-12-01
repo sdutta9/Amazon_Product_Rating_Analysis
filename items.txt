@@ -33,3 +33,7 @@ B00FF6J532	Microsoft Surface 2 (32 GB)	Microsoft Surface
 B0163GQJOU	Microsoft Surface Book Intel Core i5	Microsoft
 B00IU745S8	G-Tab Iota Quad Core Android Tablet PC	Matricom
 B00N9ERISQ	Microsoft Surface 2 32GB 10.6" Tablet	Microsoft
+B00PPTP9IO	Toshiba Radius 2-in-1 11.6" Touch-screen Laptop	Toshiba
+B00K4PAV5U	Dell Inspiron 15.6-Inch Touchscreen Laptop	Dell Computer
+B00MMLW3X2	ASUS K200MA-DS01T(S) 11.6-Inch HD Touchscreen Laptop (Black)	Asus
+B00X9KPSKK	HP Pavilion X360 13.3-Inch WLED HD Touch-screen Convertible Laptop	hp
