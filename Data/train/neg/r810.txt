@@ -1,1 +1,0 @@
-numlock doesn t have any on off indicator

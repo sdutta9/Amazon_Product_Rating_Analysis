@@ -1,1 +1,0 @@
-ok except no vga connector
