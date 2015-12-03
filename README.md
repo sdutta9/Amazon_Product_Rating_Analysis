@@ -3,7 +3,7 @@ Analyse Amazon product review using Amazon's Product Advertising API and provide
 
 #Installation
 
-pip install python-amazon-product-api
+pip install python-amazon-product-api\n
 pip install amazon_scraper
 pip install tabulate
 pip install scikit-learn
