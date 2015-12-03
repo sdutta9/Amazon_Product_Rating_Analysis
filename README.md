@@ -27,4 +27,4 @@ pip install stop-words
 
 
 
-sudo pip install nltk
+pip install nltk
